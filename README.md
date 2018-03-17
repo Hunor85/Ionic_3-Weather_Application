@@ -5,8 +5,10 @@ In this personal project I created a Weather Application with Ionic 3. The appli
 - landing page
 <img src="http://www.hunor.dk/wp-content/uploads/2018/Ionic_3-Weather_App/Weather_App-1.png" width="80%" height="80%" alt="">
 
+
 - to look for weather information according to location
 <img src="http://www.hunor.dk/wp-content/uploads/2018/Ionic_3-Weather_App/Weather_App-3.png" width="80%" height="80%" alt="">
+
 
 - to display the requested information
 <img src="http://www.hunor.dk/wp-content/uploads/2018/Ionic_3-Weather_App/Weather_App-4.png" width="80%" height="80%" alt="">
