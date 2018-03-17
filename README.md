@@ -1,2 +1,2 @@
-# Ionic_3-Image_Search_Application
-Personal Project - Ionic 3: Image Search Application
+# Ionic_3-Weather_Application
+Personal Project - Ionic 3: Weather Application
